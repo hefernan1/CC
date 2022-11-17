@@ -1,0 +1,18 @@
+body {
+        background-color: #adc2c2
+    }
+    hr {
+    border-style: dotted none none;
+    border-color: white;
+    border-width: 15px;
+    width: 10%;
+ }
+ h1{
+    color: blueviolet;
+ }
+
+h3{
+    text-align: center;
+    color: rgb(162, 226, 43);
+ }
+
